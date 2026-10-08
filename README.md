@@ -138,7 +138,7 @@
 ## 📬 Контакты
 
 - **GitHub:** [Yumeno3051](https://github.com/Yumeno3051)
-- **Email:** stejl2004@mai.ru
+- **Email:** stejl2004@mail.ru
 - **Telegram:** @yumenokyu
 
 ---
